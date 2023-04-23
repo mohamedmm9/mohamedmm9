@@ -1,3 +1,5 @@
+<a href="https://ibb.co/p3HdCBN"><img src="https://i.ibb.co/19CTHtB/manga-anime-musashi-miyamoto-musashi-hd-wallpaper-preview.jpg" alt="manga-anime-musashi-miyamoto-musashi-hd-wallpaper-preview" align="center" border="0"></a>
+
 <h1 align="center">Hi 👋, I'm mohamed meqlad</h1>
 <h3 align="center">A passionate data engineer</h3>
 
@@ -6,8 +8,6 @@
 - 🌱 I’m currently learning **data engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedmm9](https://github.com/mohamedmm9)
-
-- 💬 Ask me about **data , etl , datapiplines , more**
 
 - 📫 How to reach me **mohamedmeqlad9@gmail.com**
 
