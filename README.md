@@ -1,5 +1,5 @@
 <div align="center">
-<img hight="300" width="700" <a href="https://ibb.co/2cyzzYk"><img src="https://i.ibb.co/HGVccpH/pngwing-com.png" alt="pngwing-com" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'</a>
+<img hight="150" width="600" <a href="https://ibb.co/2cyzzYk"><img src="https://i.ibb.co/HGVccpH/pngwing-com.png" alt="pngwing-com" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'</a>
 </div>
 
 </br>
